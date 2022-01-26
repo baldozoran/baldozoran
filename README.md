@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baldozoran
 - 👀 I’m interested in programming and music
 - 🌱 I’m currently learning rest API and Laravel
-- 💞️ I’m looking to collaborate on Laravel project
+- 💞️ I’m looking to collaborate in a lot of project
 - 📫 How to reach me +39-3333212110, francesco.baldi92@gmail.com
 
 <!---
