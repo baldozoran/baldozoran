@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ### Hi there, I'm Francesco Baldi - aka [baldozoran] 👋 
 
 
-## I'm a Guitarist, Developer, and Teacher!!
+## I'm a Guitarist, and Developer of Course!!
 
 - 👋 Hi, I’m @baldozoran
 - 👀 I’m interested in programming and music
