@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name's Francesc Baldi. I'm a Full Stack Web Developer near Arezzo.\
+My name's Francesco Baldi. I'm a Full Stack Developer near Arezzo.\
 I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others.\
 I'm very committed to relentless self-improvement and I'm constantly thinking about original ideas for innovative and user-friendly web applications.\
 I'm currently working as a full-stack developer for Blucloud srl.
