@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name's Francesco Baldi. I'm a Full Stack Developer y\
+My name's Francesco Baldi. I'm a Full Stack Developer!
 I specialize in software development, especially web and app development. I work at Blucloud s.r.l.
 BluCloud Srl is a technological company born in 2014 from the experience of over fifteen years of its founders in the sector of development, marketing and provision of traditional and cloud IT services.
 
@@ -17,8 +17,8 @@ Actually:
 
 
 
-What am I studying...
-Python 
+What am I studying...\
+Python \
 Swift
 
 If you want to talk about software development, coding or anything else, drop me a line. I am currently unavailable for employment, but I am eager to hear from LinkedIn users.
