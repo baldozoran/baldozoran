@@ -1,8 +1,27 @@
 # Welcome to my profile!
-My name's Francesco Baldi. I'm a Full Stack Developer near Arezzo.\
-I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others.\
-I'm very committed to relentless self-improvement and I'm constantly thinking about original ideas for innovative and user-friendly web applications.\
-I'm currently working as a full-stack developer for Blucloud srl.
+My name's Francesco Baldi. I'm a Full Stack Developer y\
+I specialize in software development, especially web and app development. I work at Blucloud s.r.l.
+BluCloud Srl is a technological company born in 2014 from the experience of over fifteen years of its founders in the sector of development, marketing and provision of traditional and cloud IT services.
+
+My knowledge:
+- Frontend Developer (Angular, Angularjs, Vue.js, React.js, Javascript, jQuery, HTML5, CSS3)
+- Backend Developer (NodeJS, PHP, MySQL, MariaDB, Java, C++, .Net, Asp.Net,)
+- Sysadmin (LINUX)
+ Advanced knowledge of computer and network hardware architectures
+ Advanced knowledge of the operation and configuration of computer networks
+- Versioning: Git, Atlassian Software (BitBucket, Jira)
+
+Actually:
+- Development of Web Applications
+- Development of Mobile Applications in Android and iOS 
+
+
+
+What am I studying...
+Python 
+Swift
+
+If you want to talk about software development, coding or anything else, drop me a line. I am currently unavailable for employment, but I am eager to hear from LinkedIn users.
 
 ## You can also find me on...
 <a href="https://www.linkedin.com/in/francescobaldidev/" target="_blank">
